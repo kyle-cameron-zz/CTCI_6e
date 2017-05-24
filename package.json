@@ -1,0 +1,11 @@
+{
+  "name": "ctci6e",
+  "version": "1.0.0",
+  "description": "Solutions for Cracking the Coding Interview 6th Edition",
+  "main": "problems.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Cameron",
+  "license": "ISC"
+}
